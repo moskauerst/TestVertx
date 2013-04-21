@@ -1,2 +1,2 @@
-This file was created by IntelliJ IDEA 12.1.1 for binding GitHub repository
-This file was modified by IntelliJ IDEA 12.1.1 for binding GitHub repository
+Vert.x UrlMapping to controllers and actions.
+http://localhost:8080/admin/index?aaa=1
